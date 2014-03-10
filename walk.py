@@ -5,7 +5,7 @@ import csv
 import numpy as np
 
 
-class Walk:
+class Walk(object):
     """
     Parses csv export from Google My Tracks program, and pulls out heart rate information
 
